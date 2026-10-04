@@ -1,0 +1,15 @@
+bin/
+obj/
+dist/
+*.exe
+*.pdb
+*.log
+settings*.json
+self-test.txt
+.vs/
+.idea/
+.env
+.env.*
+screenshots/
+captures/
+*.zip
