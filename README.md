@@ -4,6 +4,9 @@ A small Windows desktop tool for screenshot-based practice questions. It capture
 
 No browser extension or API key is required. This is an independent community project, not affiliated with OpenAI or an assessment provider.
 
+## Download and run
+
+Download the Windows ZIP from [Releases](https://github.com/Yashahant/quick-question/releases). Extract it into a writable folder and run `QuickQuestion.exe`. The ZIP includes the executable, README, and MIT license, with no personal logs or settings. Follow the requirements and preview setup below. Developers can build from source instead.
 ## Current requirements
 
 - 64-bit Windows with .NET Framework 4.7.2 or later and Windows OCR support. Development and local testing used Windows 11; other versions and layouts are not certified.
@@ -79,4 +82,5 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). For bug reports, include the app versio
 ## License
 
 [MIT](LICENSE).
+
 
